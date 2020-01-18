@@ -10,13 +10,13 @@ If you want to help the project you can do this in several ways. Here are some o
 
 ## Add channel
 
-To add a channel to one of the playlists, you first need to make sure that the channel broadcast is working stably. Otherwise, we just have to delete the channel you just added. 
+To add a channel to one of the playlists, you first need to make sure that the channel broadcast is working stably. Otherwise, we just have to delete the channel you just added.
 
-To do this, start the broadcast in one of the players (preferably a VLC player) and keep it on for at least a minute. The fact is that some broadcasts are configured to automatically turn off after 10-15 seconds or sometimes after a couple of minutes. 
+To do this, start the broadcast in one of the players (preferably a VLC player) and keep it on for at least a minute. The fact is that some broadcasts are configured to automatically turn off after 10-15 seconds or sometimes after a couple of minutes.
 
-You should also make sure that this is a live broadcast and not a looped video (this also happens). The easiest way is to start the broadcast several times in a row after a short period of time and compare the beginning. 
+You should also make sure that this is a live broadcast and not a looped video (this also happens). The easiest way is to start the broadcast several times in a row after a short period of time and compare the beginning.
 
-If everything is fine, then you can proceed to add the channel to the playlist. 
+If everything is fine, then you can proceed to add the channel to the playlist.
 
 If you know exactly in which country this channel is broadcast, then simply select the appropriate playlist from the `channels/` folder and add the channel to it.
 
@@ -38,14 +38,13 @@ http://example.com/stream.m3u8
 
 More details about each attribute:
 
-| Attribute    | Description
-| ------------ | ---
-| tvg-id       | Channel ID that is used to load EPG. Must match `id` from the EPG file. (optional)
-| tvg-name     | Channel name that is also sometimes used to load EPG. Must match `display-name` from the EPG file. (optional)
-| tvg-language | Channel language. The name of the language must conform to the standard [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (optional)
-| tvg-logo     | The logo of the channel that will be displayed in the player if it supports it (optional)
-| group-title  | The category to which the channel belongs. These categories are also displayed in some players, and grouped playlists are also generated based on them. The list of currently supported categories can be found [here](https://github.com/iptv-org/iptv#playlists-by-category) (optional)
-
+| Attribute    | Description                                                                                                                                                                                                                                                                               |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| tvg-id       | Channel ID that is used to load EPG. Must match `id` from the EPG file. (optional)                                                                                                                                                                                                        |
+| tvg-name     | Channel name that is also sometimes used to load EPG. Must match `display-name` from the EPG file. (optional)                                                                                                                                                                             |
+| tvg-language | Channel language. The name of the language must conform to the standard [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (optional)                                                                                                                                     |
+| tvg-logo     | The logo of the channel that will be displayed in the player if it supports it (optional)                                                                                                                                                                                                 |
+| group-title  | The category to which the channel belongs. These categories are also displayed in some players, and grouped playlists are also generated based on them. The list of currently supported categories can be found [here](https://github.com/iAladdin/iptv#playlists-by-category) (optional) |
 
 ## Sort channels by category
 
@@ -56,9 +55,9 @@ To help sort channels by category, you need to add the corresponding category in
 http://example.com/cnn.m3u8
 ```
 
-For convenience, `https://iptv-org.github.io/iptv/categories/other.m3u` contains all the channels for which a category has not yet been specified. But be careful, changes can only be made in the playlists located in the `channels/` folder, since the other playlists are automatically generated.
+For convenience, `https://iAladdin.github.io/iptv/categories/other.m3u` contains all the channels for which a category has not yet been specified. But be careful, changes can only be made in the playlists located in the `channels/` folder, since the other playlists are automatically generated.
 
-A complete list of supported categories can be found [here](https://github.com/iptv-org/iptv#playlists-by-category).
+A complete list of supported categories can be found [here](https://github.com/iAladdin/iptv#playlists-by-category).
 
 ## Sort channels by country
 
@@ -76,7 +75,7 @@ However, there are situations when the channel is literally not assigned to any 
 
 To make sure that the broadcast works you need to run it in two main applications: VLC player (https://www.videolan.org/) and Kodi (https://kodi.tv/). After starting, do not forget to wait at least a minute, as some broadcasts are started with a delay due to the location of the source.
 
-If it turns out that the broadcast still does not start, this means that it can be safely deleted from the playlist. At the same time, you should delete not only the link to the channel but also the description for it. 
+If it turns out that the broadcast still does not start, this means that it can be safely deleted from the playlist. At the same time, you should delete not only the link to the channel but also the description for it.
 
 It would also be nice if you indicated in the description of the PR the reason for the removal of the channel, so that other members of the community could also double-check the channel for their part.
 
@@ -94,7 +93,7 @@ And as soon as everything is installed, you can run tests, like this:
 npm test
 ```
 
-And be prepared test may take a long time. 
+And be prepared test may take a long time.
 
 If you want to test the playlist of a particular country, you can specify the [ISO 3166 code](https://en.wikipedia.org/wiki/ISO_3166) of the country as an argument when running the test.
 
