@@ -305,7 +305,7 @@ http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wjCFvLR.png" group-title="Religious",Divine Vision
 http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rnQMXRm.jpg" group-title="Documentary",DocuBox HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rnQMXRm.jpg" group-title="BGV",DocuBox HD
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Z4ZiY0N.jpg" group-title="",Documentaries 4U
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
@@ -401,7 +401,7 @@ https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
 http://fss27.streamhoster.com/lv_glc/_definst_/broadcast3/chuck.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/7vQrPvk.png" group-title="",Gospel Truth TV
 https://bstna.tulix.tv/live/bs_2m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Misc/h2_2400_color_dark_light.png" group-title="",H2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Misc/h2_2400_color_dark_light.png" group-title="BGV",H2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XIpsgye.png" group-title="",History 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
@@ -535,21 +535,19 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" group-title="",Nat Geo People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" group-title="",Nat Geo People
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" group-title="BGV",Nat Geo People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" group-title="",Nat Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="",Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="",Nat Geo Wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="BGV",Nat Geo Wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" group-title="",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" group-title="",National Geographic
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="",National Geograpic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="BGV",National Geograpic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-id="US-NBC HD New York" tvg-name="US-NBC HD New York" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" group-title="",NBC
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8

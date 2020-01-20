@@ -30,7 +30,7 @@
 		<tr><td align="left">Canada</td><td align="right">39</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/ca.m3u</code></td><td align="left"><code>http://epg.streamstv.me/epg/guide-canada.xml.gz</code></td></tr>
 		<tr><td align="left">Cape Verde</td><td align="right">1</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/cv.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Chile</td><td align="right">62</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/cl.m3u</code></td><td align="left"></td></tr>
-		<tr><td align="left">China</td><td align="right">1812</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/cn.m3u</code></td><td align="left"><code>http://epg.51zmt.top:8000/e.xml.gz</code></td></tr>
+		<tr><td align="left">China</td><td align="right">1826</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/cn.m3u</code></td><td align="left"><code>http://epg.51zmt.top:8000/e.xml.gz</code></td></tr>
 		<tr><td align="left">Colombia</td><td align="right">31</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/co.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Costa Rica</td><td align="right">13</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/cr.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Croatia</td><td align="right">35</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/hr.m3u</code></td><td align="left"><code>http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml</code></td></tr>
@@ -151,9 +151,9 @@
 		<tr><td align="left">Turkmenistan</td><td align="right">10</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/tm.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Uganda</td><td align="right">3</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/ug.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Ukraine</td><td align="right">161</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/ua.m3u</code></td><td align="left"><code>https://iptvx.one/epg/epg.xml.gz</code></td></tr>
-		<tr><td align="left">United Arab Emirates</td><td align="right">142</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/ae.m3u</code></td><td align="left"><code>http://195.154.221.171/epg/guidearab.xml.gz</code></td></tr>
+		<tr><td align="left">United Arab Emirates</td><td align="right">141</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/ae.m3u</code></td><td align="left"><code>http://195.154.221.171/epg/guidearab.xml.gz</code></td></tr>
 		<tr><td align="left">United Kingdom</td><td align="right">62</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/uk.m3u</code></td><td align="left"><code>http://195.154.221.171/epg/guideuk.xml.gz</code></td></tr>
-		<tr><td align="left">United States</td><td align="right">443</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/us.m3u</code></td><td align="left"><code>http://epg.streamstv.me/epg/guide-usa.xml.gz</code></td></tr>
+		<tr><td align="left">United States</td><td align="right">442</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/us.m3u</code></td><td align="left"><code>http://epg.streamstv.me/epg/guide-usa.xml.gz</code></td></tr>
 		<tr><td align="left">Uruguay</td><td align="right">5</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/uy.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Venezuela</td><td align="right">10</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/ve.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Vietnam</td><td align="right">62</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/vn.m3u</code></td><td align="left"></td></tr>

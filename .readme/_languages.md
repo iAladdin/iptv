@@ -6,7 +6,7 @@
 		<tr><td align="left">Akan</td><td align="right">3</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/ak.m3u</code></td></tr>
 		<tr><td align="left">Albanian</td><td align="right">37</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/sq.m3u</code></td></tr>
 		<tr><td align="left">Amharic</td><td align="right">2</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/am.m3u</code></td></tr>
-		<tr><td align="left">Arabic</td><td align="right">464</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/ar.m3u</code></td></tr>
+		<tr><td align="left">Arabic</td><td align="right">463</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/ar.m3u</code></td></tr>
 		<tr><td align="left">Armenian</td><td align="right">8</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/hy.m3u</code></td></tr>
 		<tr><td align="left">Azerbaijani</td><td align="right">17</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/az.m3u</code></td></tr>
 		<tr><td align="left">Bengali</td><td align="right">11</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/bn.m3u</code></td></tr>
@@ -14,13 +14,13 @@
 		<tr><td align="left">Bulgarian</td><td align="right">54</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/bg.m3u</code></td></tr>
 		<tr><td align="left">Burmese</td><td align="right">5</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/my.m3u</code></td></tr>
 		<tr><td align="left">Catalan</td><td align="right">4</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/ca.m3u</code></td></tr>
-		<tr><td align="left">Chinese</td><td align="right">1925</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/zh.m3u</code></td></tr>
+		<tr><td align="left">Chinese</td><td align="right">1939</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/zh.m3u</code></td></tr>
 		<tr><td align="left">Croatian</td><td align="right">37</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/hr.m3u</code></td></tr>
 		<tr><td align="left">Czech</td><td align="right">33</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/cs.m3u</code></td></tr>
 		<tr><td align="left">Danish</td><td align="right">16</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/da.m3u</code></td></tr>
 		<tr><td align="left">Divehi</td><td align="right">5</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/dv.m3u</code></td></tr>
 		<tr><td align="left">Dutch</td><td align="right">85</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/nl.m3u</code></td></tr>
-		<tr><td align="left">English</td><td align="right">739</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/en.m3u</code></td></tr>
+		<tr><td align="left">English</td><td align="right">738</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/en.m3u</code></td></tr>
 		<tr><td align="left">Estonian</td><td align="right">11</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/et.m3u</code></td></tr>
 		<tr><td align="left">Faroese</td><td align="right">2</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/fo.m3u</code></td></tr>
 		<tr><td align="left">Finnish</td><td align="right">3</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/fi.m3u</code></td></tr>
