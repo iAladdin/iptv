@@ -30,7 +30,7 @@
 		<tr><td align="left">Canada</td><td align="right">39</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/ca.m3u</code></td><td align="left"><code>http://epg.streamstv.me/epg/guide-canada.xml.gz</code></td></tr>
 		<tr><td align="left">Cape Verde</td><td align="right">1</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/cv.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Chile</td><td align="right">62</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/cl.m3u</code></td><td align="left"></td></tr>
-		<tr><td align="left">China</td><td align="right">2199</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/cn.m3u</code></td><td align="left"><code>http://epg.51zmt.top:8000/e.xml.gz</code></td></tr>
+		<tr><td align="left">China</td><td align="right">1826</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/cn.m3u</code></td><td align="left"><code>http://epg.51zmt.top:8000/e.xml.gz</code></td></tr>
 		<tr><td align="left">Colombia</td><td align="right">31</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/co.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Costa Rica</td><td align="right">13</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/cr.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Croatia</td><td align="right">35</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/hr.m3u</code></td><td align="left"><code>http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml</code></td></tr>
@@ -161,6 +161,6 @@
 		<tr><td align="left">Western Sahara</td><td align="right">2</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/eh.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Yemen</td><td align="right">3</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/ye.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Zimbabwe</td><td align="right">2</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/zw.m3u</code></td><td align="left"></td></tr>
-		<tr><td align="left">Huya</td><td align="right">365</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/huya.m3u</code></td><td align="left"><code>http://epg.51zmt.top:8000/e.xml.gz</code></td></tr>
+		<tr><td align="left">Huya</td><td align="right">361</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/huya.m3u</code></td><td align="left"><code>http://epg.51zmt.top:8000/e.xml.gz</code></td></tr>
 	</tbody>
 </table>
