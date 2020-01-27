@@ -4,7 +4,7 @@ const fs = require('fs');
 baseUrl = 'http://www.huya.com/cache.php?m=LiveList&do=getLiveListByPage&gameId=2135&tagAll=0&page=';
 
 tplString = `
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="channel_avatar" group-title="BGV",HY-> channel_title
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="channel_avatar" group-title="BGV",> channel_title
 channel_url
 `
 huyaPlayListPath = './channels/huya.m3u';
@@ -27,7 +27,7 @@ var processList = (list) => {
   var allM3U8 = "";
   list.forEach(item => {
     var channel = {};
-    if (item.roomName) {
+    if (item.roomName && item.roomName !== 'null') {
       channel.title = item.roomName;
     } else {
       channel.title = item.nick;
