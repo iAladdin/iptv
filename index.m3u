@@ -335,3 +335,5 @@ channels/eh.m3u
 channels/ye.m3u
 #EXTINF:-1,Zimbabwe
 channels/zw.m3u
+#EXTINF:-1,Huya
+channels/huya.m3u

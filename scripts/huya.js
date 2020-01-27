@@ -7,6 +7,10 @@ tplString = `
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="channel_avatar" group-title="BGV",HY-> channel_title
 channel_url
 `
+huyaPlayListPath = './channels/huya.m3u';
+
+fs.writeFileSync(huyaPlayListPath, `#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+`);
 
 for (let index = 1; index < 5; index++) {
   axios({
@@ -15,7 +19,7 @@ for (let index = 1; index < 5; index++) {
     timeout: 60000
   }).then(res => {
     var m3u8String = processList(res.data.data.datas);
-    fs.appendFileSync('./channels/cn.m3u', m3u8String);
+    fs.appendFileSync(huyaPlayListPath, m3u8String);
   })
 }
 
@@ -23,7 +27,11 @@ var processList = (list) => {
   var allM3U8 = "";
   list.forEach(item => {
     var channel = {};
-    channel.title = item.roomName;
+    if (item.roomName) {
+      channel.title = item.roomName;
+    } else {
+      channel.title = item.nick;
+    }
     var urlCom = item.screenshot.replace("live-cover.msstatic.com", "aldirect.hls.huya.com");
     urlCom = urlCom.replace(/\/[0-9]*.jpg$/gm, ".m3u8");
     channel.url = urlCom;
