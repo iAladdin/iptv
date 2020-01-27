@@ -2,7 +2,7 @@ name: Update Huya playlists
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/10 * * * *'
 
 jobs:
   huya:
