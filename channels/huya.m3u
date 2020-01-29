@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1061/2f/0b14d5852f942250db6364c9025d0d_180_135.jpg" group-title="BGV",> 0031-开心鬼
 http://aldirect.hls.huya.com/huyalive/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1073/0a/87fd57c47451ff3bc787c7688b0636_180_135.jpg" group-title="BGV",> 0060-热血高校
@@ -24,7 +25,7 @@ http://aldirect.hls.huya.com/huyalive/1099531627933-1099531627933-85900020229865
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1015/02/1d5c7e7e074d89f15b21b8e09bb86b_180_135.jpg" group-title="BGV",> 2019宝珀GT亚洲杯-马来西亚站回顾
 http://aldirect.hls.huya.com/huyalive/1099531627801-1099531627801-85899453294182400-2199063379058-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1067/38/f181bc0cc5469c26e599893c825a8d_180_135.jpg" group-title="BGV",> 7月14已更新，悬疑温情刑侦电影一网打尽
-http://aldirect.hls.huya.com/huyalive/1199512504371-1199512504371-5225380851537149952-2399025132198-10057-A-0-1.m3u8
+http://huya-screenshots-review-1253498701.image.myqcloud.com/huyalive/1199512504371-1199512504371-5225380851537149952-2399025132198-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1018/5f/a247ac3567b9a166830e92fe4e1ba2_180_135.jpg" group-title="BGV",> 8/23已更新，科幻动作经典影片
 http://aldirect.hls.huya.com/huyalive/1199519786002-1199519786002-5256655218543689728-2399039695460-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1090/f5/3f26e23b57a7e6624e9c9c804591a6_180_135.jpg" group-title="BGV",> 8小妹撩电影
@@ -44,7 +45,7 @@ http://aldirect.hls.huya.com/huyalive/94525224-2669150520-11463914191501393920-4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1020/64/073b401ac8a9d2849ed127229f640c_180_135.jpg" group-title="BGV",> ceshi
 http://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1016/1e/88a145a81554bfd6c078f5f9a807f5_180_135.jpg" group-title="BGV",> FE电动方程式罗马站回顾
-http://aldirect.hls.huya.com/huyalive/1099531627798-1099531627798-85899440409280512-2199063379052-10057-A-0-1.m3u8
+http://huya-screenshots-review-1253498701.image.myqcloud.com/huyalive/1099531627798-1099531627798-85899440409280512-2199063379052-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1083/e3/8fc1fd206d9822b01b1cfa50a98fe7_180_135.jpg" group-title="BGV",> KOB铁甲格斗北京站
 http://aldirect.hls.huya.com/huyalive/94525224-2706361294-11623733248890241024-4605091484-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1030/c7/b40e2c4075babb95adc95b76335ef5_180_135.jpg" group-title="BGV",> low君带你刷热剧
@@ -187,6 +188,8 @@ http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2
 http://aldirect.hls.huya.com/huyalive/57834294-57834294-248396401317249024-3195292260-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1073/a9/ed241523f80750c4a0f2ecc90095e4_180_135.jpg" group-title="BGV",> 【声控福利】最慢的语速最温柔的讲最深度的
 http://aldirect.hls.huya.com/huyalive/98916194-98916194-424841818274791424-673193578-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1062/c3/e93ce8d21b70574290b7e21297a19b_180_135.jpg" group-title="BGV",> 【央视新闻】共同战“疫”不间断直播！
+http://aldirect.hls.huya.com/huyalive/94525224-2687807366-11544044734917902336-2847699228-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1069/51/1e5997bcc0cbaa5955931ff2f7df0d_180_135.jpg" group-title="BGV",> 【奋斗】离婚快乐嗷
 http://aldirect.hls.huya.com/huyalive/29106097-2747014526-11798337550806941696-3048991670-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1039/2e/2e97b2bc3bce57dfced78cc6885a57_180_135.jpg" group-title="BGV",> 【奔跑吧兄dei】We are 伐木累
@@ -256,7 +259,7 @@ http://aldirect.hls.huya.com/huyalive/30765679-2503194318-10751137731343024128-3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1042/e2/49f7626aba294d9afaa1a29ef9fd8e_180_135.jpg" group-title="BGV",> 【楚汉传奇】陈道明版刘邦
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1049/3a/3f50dc18208783c6c9f5b9a76c59b2_180_135.jpg" group-title="BGV",> 【步步惊心】穿越鼻祖 刘诗诗吴奇隆的后宫生活
-http://aldirect.hls.huya.com/huyalive/29169025-2686221544-11537233681290625024-2847687612-10057-A-0-1.m3u8
+http://huya-screenshots-review-1253498701.image.myqcloud.com/huyalive/29169025-2686221544-11537233681290625024-2847687612-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1052/fd/2b7cca54c637f425732ee4b7f1d75f_180_135.jpg" group-title="BGV",> 【武器重铸】手工锻造战斧利刃
 http://aldirect.hls.huya.com/huyalive/29169025-2686220986-11537231284698873856-2847687616-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1054/cc/fe8da49e5df793bdd59ed1be0d340b_180_135.jpg" group-title="BGV",> 【死神来了】求求你出第六部吧
@@ -276,7 +279,7 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1042/8a/2da4ab2ee277d62423abf995594647_180_135.jpg" group-title="BGV",> 【漫威不死】复仇者联盟
 http://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1083/8b/5793f339dff0a893b225061442a458_180_135.jpg" group-title="BGV",> 【漫威不死】钢铁侠
-http://huya-screenshots-review-1253498701.image.myqcloud.com/huyalive/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8
+http://aldirect.hls.huya.com/huyalive/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1034/fb/492ee09d84c4fe858a6005307f37ce_180_135.jpg" group-title="BGV",> 【熊妹】解说冷门佳片
 http://aldirect.hls.huya.com/huyalive/94525224-2703053314-11609525582974418944-239402834-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1099/f6/53aafc173b24d0c336faac2e49b822_180_135.jpg" group-title="BGV",> 【爱情公寓】全程高能无尿点
@@ -325,6 +328,8 @@ http://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2
 http://aldirect.hls.huya.com/huyalive/30765679-2689675904-11552070044519235584-3049003156-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1071/70/90dcf84517b4239b242e109d6fa28c_180_135.jpg" group-title="BGV",> 【贝爷】史上最强男人
 http://aldirect.hls.huya.com/huyalive/30765679-2523417602-10837996074740744192-2847699224-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1053/38/feee55a7658ab48743a81ea34ec10f_180_135.jpg" group-title="BGV",> 【轮播】谷阿莫AmoGood_1004
+http://aldirect.hls.huya.com/huyalive/1444266573-1444266573-6203077697740996608-4623578078-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1070/37/a68ce7e0bc3cd757cc3fe79fbdb2e4_180_135.jpg" group-title="BGV",> 【还珠格格】还记得当年大明湖畔的夏雨荷吗
 http://aldirect.hls.huya.com/huyalive/30765679-2523417093-10837993888602390528-2789274530-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1030/74/6bb7ec6706120f91025e48b5a6d245_180_135.jpg" group-title="BGV",> 【迪士尼】来袭 每一部你都不想错过
@@ -368,9 +373,9 @@ http://aldirect.hls.huya.com/huyalive/1199522933703-1199522933703-52701744913962
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1070/94/abc866b59c7215c66ab3a752300c70_180_135.jpg" group-title="BGV",> 专注恐怖游戏的小萌新
 http://aldirect.hls.huya.com/huyalive/1199520780175-1199520780175-5260925159065255936-2399041683806-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1084/6d/a90b0ee322c6b3183b3fe268e5660f_180_135.jpg" group-title="BGV",> 东倾
-http://aldirect.hls.huya.com/huyalive/1199511968140-1199511968140-5223077756929048576-2399024059736-10057-A-0-1.m3u8
+http://huya-screenshots-review-1253498701.image.myqcloud.com/huyalive/1199511968140-1199511968140-5223077756929048576-2399024059736-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1081/8a/498254a220a5e6598c8a330a9c06fb_180_135.jpg" group-title="BGV",> 中二集中营
-http://aldirect.hls.huya.com/huyalive/1099531739996-1099531739996-86381327149957120-2199063603448-10057-A-0-1.m3u8
+http://huya-screenshots-review-1253498701.image.myqcloud.com/huyalive/1099531739996-1099531739996-86381327149957120-2199063603448-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1071/02/68217cc72125b549df7da1ee1d5dd8_180_135.jpg" group-title="BGV",> 中国达人秀·世界牛人聚集地
 http://aldirect.hls.huya.com/huyalive/30765679-2554414889-10971128408670470144-3048991640-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1003/0a/e202f0e95632f1ddd799f430ead2d2_180_135.jpg" group-title="BGV",> 主播炸了系列24小时轮播~
@@ -395,8 +400,6 @@ http://aldirect.hls.huya.com/huyalive/68418472-68418472-293855099682291712-31204
 http://aldirect.hls.huya.com/huyalive/30765679-2484192604-10669525991145078784-3049003162-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1082/ed/e89c291f40c04b03d2a8a7308ef355_180_135.jpg" group-title="BGV",> 伊藤润二、剑豪生死斗
 http://aldirect.hls.huya.com/huyalive/61826217-61826217-265541580050399232-3458987096-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1030/6a/b570674cf21e5824427f925a4fff94_180_135.jpg" group-title="BGV",> 伍阿哥视频
-http://aldirect.hls.huya.com/huyalive/94525224-2695478346-11576991343146172416-4540491764-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1045/1e/0bcedc77286612bd55f7ab4c26913f_180_135.jpg" group-title="BGV",> 伪装者 我不管老胡最帅
 http://aldirect.hls.huya.com/huyalive/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1060/3b/03e68e81bcd4e1629e140c437cbfb9_180_135.jpg" group-title="BGV",> 你想看的全都有
@@ -413,6 +416,8 @@ http://aldirect.hls.huya.com/huyalive/1199518991542-1199518991542-52532430388257
 http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1092/d0/c442c039a7cdacc1270892526aa938_180_135.jpg" group-title="BGV",> 关灯看大片，不是大片我不看
 http://aldirect.hls.huya.com/huyalive/1421185736-1421185736-6103946257661689856-4601139740-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1007/e9/76b9b2f3c73c2afa079a7164b61075_180_135.jpg" group-title="BGV",> 养殖生活日记
+http://aldirect.hls.huya.com/huyalive/1199527865687-1199527865687-5291357201380671488-2399055854830-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1087/dc/6830f7b571924b0039cb898f197b7c_180_135.jpg" group-title="BGV",> 冲啊！四驱兄弟 嘴控大战
 http://aldirect.hls.huya.com/huyalive/94525224-2472045388-10617354095687630848-2847687664-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1003/bc/3c7a3f80ebfab133af746bc5fa3c7b_180_135.jpg" group-title="BGV",> 冷君说电影
@@ -420,7 +425,7 @@ http://aldirect.hls.huya.com/huyalive/81631627-81631627-350605168284270592-32431
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1016/91/e08f4b8901b8c3edb9f87b75e5a67a_180_135.jpg" group-title="BGV",> 几分钟体验精彩电影视觉盛宴
 http://aldirect.hls.huya.com/huyalive/1199525415984-1199525415984-5280835807110758400-2399050955424-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1083/fe/5c863c35deee7013847725b7d81222_180_135.jpg" group-title="BGV",> 几分钟看电影
-http://huya-screenshots-review-1253498701.image.myqcloud.com/huyalive/1445492508-1445492508-6208343048473018368-4707289134-10057-A-0-1.m3u8
+http://aldirect.hls.huya.com/huyalive/1445492508-1445492508-6208343048473018368-4707289134-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1043/17/0212f75794344951df2513225eb5c7_180_135.jpg" group-title="BGV",> 凹凹说
 http://aldirect.hls.huya.com/huyalive/1444083007-1444083007-6202289287774339072-3370774984-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1022/c2/47eb2295c7e5865c9d6db3cdf34cf3_180_135.jpg" group-title="BGV",> 刘烨孙俪演绎青春岁月
@@ -468,11 +473,11 @@ http://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1048/43/69c68b5d956a19947a354f844c42f4_180_135.jpg" group-title="BGV",> 头文字D·秋名山车神
 http://aldirect.hls.huya.com/huyalive/1448737842-1448737842-6222281651867615232-2847687562-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1051/6f/6814ba67b8b8fedae7c74612c96039_180_135.jpg" group-title="BGV",> 好尸分分钟带你看完电影
-http://aldirect.hls.huya.com/huyalive/94525224-2702136290-11605586994884771840-4573721796-10057-A-0-1.m3u8
+http://huya-screenshots-review-1253498701.image.myqcloud.com/huyalive/94525224-2702136290-11605586994884771840-4573721796-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1033/e3/5c92d8195b93db998e38240279d019_180_135.jpg" group-title="BGV",> 娘子说电影
 http://aldirect.hls.huya.com/huyalive/1199517262701-1199517262701-5245817723270725632-2399034648858-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1071/7a/d3cabcb00de72b87841bb04afdceb8_180_135.jpg" group-title="BGV",> 嫦娥撩电影
-http://huya-screenshots-review-1253498701.image.myqcloud.com/huyalive/1199514434587-1199514434587-5233671066131365888-2399028992630-10057-A-0-1.m3u8
+http://aldirect.hls.huya.com/huyalive/1199514434587-1199514434587-5233671066131365888-2399028992630-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1089/81/92cc5bf8aecc78b87a17e60f881af8_180_135.jpg" group-title="BGV",> 孙红雷米其林大厨的退休生活
 http://aldirect.hls.huya.com/huyalive/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1043/eb/98cdb6c3cc433165914bd0649fc840_180_135.jpg" group-title="BGV",> 宋朝男子天团·小制作大良心
@@ -498,9 +503,7 @@ http://aldirect.hls.huya.com/huyalive/1199511962590-1199511962590-52230539198605
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1077/ec/0eb51a6ce0adae1ffc4a4409d24862_180_135.jpg" group-title="BGV",> 峡谷重案组
 http://aldirect.hls.huya.com/huyalive/1259514591367-1259514591367-4677965159170310144-2519029306190-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1065/6e/51789b3b7a3d5fec75a8d3ecedb897_180_135.jpg" group-title="BGV",> 带你看恐怖片
-http://huya-screenshots-review-1253498701.image.myqcloud.com/huyalive/1444492216-1444492216-6204046827046567936-4666044768-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1003/78/ac1d7925ef529d48ede574604a5dad_180_135.jpg" group-title="BGV",> 带你走进乡村小道，体验农村生活
-http://aldirect.hls.huya.com/huyalive/43617044-43617044-187333777528193024-4388367464-10057-A-0-1.m3u8
+http://aldirect.hls.huya.com/huyalive/1444492216-1444492216-6204046827046567936-4666044768-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1024/f0/4b630f51b34c7fc54f344770aed407_180_135.jpg" group-title="BGV",> 带大家看最棒电影
 http://aldirect.hls.huya.com/huyalive/1199512037772-1199512037772-5223376824091803648-2399024199000-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1004/90/9a2a43815067279991409eb69a08df_180_135.jpg" group-title="BGV",> 幻海航行科幻故事
@@ -517,7 +520,7 @@ http://aldirect.hls.huya.com/huyalive/1448640609-1448640609-6221864039312523264-
 http://aldirect.hls.huya.com/huyalive/94525224-2706201462-11623046775677386752-4495010170-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1009/f2/04c3dd88753151840b3f4412f51d69_180_135.jpg" group-title="BGV",> 悬疑烧脑看大熊，热播爽剧追不停
 http://aldirect.hls.huya.com/huyalive/1199517915721-1199517915721-5248622422814359552-2399035954898-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1045/6e/0845de8f35b8eb6e18582de6a64fcb_180_135.jpg" group-title="BGV",> 感谢“死亡之翼”点播！
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1045/6e/0845de8f35b8eb6e18582de6a64fcb_180_135.jpg" group-title="BGV",> 感谢“慕楠”点播！
 http://aldirect.hls.huya.com/huyalive/1444956557-1444956557-6206041156455759872-2122373266-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1039/15/8fa37019a60515490eaeab2ba329c8_180_135.jpg" group-title="BGV",> 成龍历险记·社会我阿福乌鸦坐飞机
 http://aldirect.hls.huya.com/huyalive/29169025-2686220626-11537229738510647296-2847699128-10057-A-0-1.m3u8
@@ -568,11 +571,11 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689655562-11551982676294500352-2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1086/4b/a20ea439a14308e0c3d1c4b1f828f8_180_135.jpg" group-title="BGV",> 欢乐喜剧人·宋小宝沈腾小沈阳
 http://aldirect.hls.huya.com/huyalive/29169025-2686220848-11537230691993387008-2847687614-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1079/f8/82ea7222422999688cb3a02ceca2d7_180_135.jpg" group-title="BGV",> 欢迎来到葫芦娃小剧场
-http://aldirect.hls.huya.com/huyalive/1445469122-1445469122-6208242606367834112-4694029650-10057-A-0-1.m3u8
+http://huya-screenshots-review-1253498701.image.myqcloud.com/huyalive/1445469122-1445469122-6208242606367834112-4694029650-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1022/ff/f358645a771880ee3689d2c7508f6b_180_135.jpg" group-title="BGV",> 正义联盟【百万播放DC系列动画电影】——
 http://aldirect.hls.huya.com/huyalive/1199526542419-1199526542419-5285673808596828160-2399053208294-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1082/2d/507bea93b5ecb7bbc3472bf9a2433a_180_135.jpg" group-title="BGV",> 正经的瓜皮酱
-http://huya-screenshots-review-1253498701.image.myqcloud.com/huyalive/1199522567681-1199522567681-5268602438876659712-2399045258818-10057-A-0-1.m3u8
+http://aldirect.hls.huya.com/huyalive/1199522567681-1199522567681-5268602438876659712-2399045258818-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1099/52/7a483ba8e22798e89c17435647935c_180_135.jpg" group-title="BGV",> 每周不定期更新，喜欢的点点订阅哟~
 http://aldirect.hls.huya.com/huyalive/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1043/f0/2d5036459592db8a8356a5bb0f0615_180_135.jpg" group-title="BGV",> 每天都有新电影更新哦！
@@ -591,6 +594,8 @@ http://aldirect.hls.huya.com/huyalive/1099531627800-1099531627800-85899448999215
 http://aldirect.hls.huya.com/huyalive/1352581733-1352581733-5809294308402003968-4485994320-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1014/c1/c0a9afcfae463fcddd62d18af0710c_180_135.jpg" group-title="BGV",> 港产搞笑·只有善良的人才看的到！！！
 http://aldirect.hls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1003/78/ac1d7925ef529d48ede574604a5dad_180_135.jpg" group-title="BGV",> 湖南乡村进哥
+http://aldirect.hls.huya.com/huyalive/43617044-43617044-187333777528193024-4388367464-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1091/ca/94bd7f880732e5400cd9dbf6a544ed_180_135.jpg" group-title="BGV",> 湖南省第八届网络文化节-《卖甜守望者》
 http://aldirect.hls.huya.com/huyalive/1199525635349-1199525635349-5281777972611645440-2399051394154-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1010/0d/6608229011fd9c079a0fb63999a906_180_135.jpg" group-title="BGV",> 湘西小程
@@ -621,16 +626,12 @@ http://aldirect.hls.huya.com/huyalive/94525224-2704830208-11617157284592877568-4
 http://aldirect.hls.huya.com/huyalive/1448618888-1448618888-6221770748327886848-2874441594-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1067/a7/a4ef768d73ace55fbc7adce0f4e329_180_135.jpg" group-title="BGV",> 电影最TOP
 http://aldirect.hls.huya.com/huyalive/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1043/32/306c729aec796334198aa8e790f97c_180_135.jpg" group-title="BGV",> 电影解说看不停，恐怖奇幻统统都有
-http://aldirect.hls.huya.com/huyalive/94525224-2690477198-11555511576043716608-3702724262-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1039/02/40e3b64adc13c06ed1f1ca693ebca7_180_135.jpg" group-title="BGV",> 疯哥讲电影，每日更新！
 http://aldirect.hls.huya.com/huyalive/1199514945997-1199514945997-5235867555356213248-2399030015450-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1040/86/789e89fa3c40d37c3f0ae31e8e5f5d_180_135.jpg" group-title="BGV",> 盆友你听说过全职猎人吗
 http://aldirect.hls.huya.com/huyalive/43460312-43460312-186660618713956352-2847687638-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1049/87/c216dbc796818c8ccacfdfffd21b1e_180_135.jpg" group-title="BGV",> 看电影 品人生
 http://aldirect.hls.huya.com/huyalive/1348951819-1348951819-5793703946484711424-3697487504-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1016/b4/49b7034f405681ff8e75e3e512c761_180_135.jpg" group-title="BGV",> 真人吃鸡
-http://aldirect.hls.huya.com/huyalive/1199515057776-1199515057776-5236347642505592832-2399030239008-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1065/83/3e09d3cd4b68357dce441a02470c71_180_135.jpg" group-title="BGV",> 短的发布会
 http://aldirect.hls.huya.com/huyalive/1445190547-1445190547-6207046135853350912-1418039432-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1059/59/e5afb3be5d688981766e23f14c4b37_180_135.jpg" group-title="BGV",> 神奇的电影
@@ -708,7 +709,7 @@ http://aldirect.hls.huya.com/huyalive/29359996-2689613622-11551802545366106112-2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1027/85/0e23f22c9cc69dfafcfe3e16076586_180_135.jpg" group-title="BGV",> 隋唐英雄传·销魂的暴君杨广
 http://aldirect.hls.huya.com/huyalive/29359996-2689637532-11551905238034153472-2847687564-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1009/41/62b9177d3e1bbf1c4e87eded2c216a_180_135.jpg" group-title="BGV",> 雍正王朝 康熙帝你儿子来啦
-http://huya-screenshots-review-1253498701.image.myqcloud.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1.m3u8
+http://aldirect.hls.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1084/eb/38800e34deecef94e029bab645eaf2_180_135.jpg" group-title="BGV",> 雪豹坚强岁月·富家公子张若昀
 http://aldirect.hls.huya.com/huyalive/94525224-2744288080-11786627554402631680-3048959678-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1014/7d/f62ba6e5e3c279f8d56aca065acaf3_180_135.jpg" group-title="BGV",> 面食，酥，香，脆，软糯的一百种吃法，不难，简单美味
@@ -718,7 +719,7 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1008/a6/b37742ca875a8d642eec2b92308838_180_135.jpg" group-title="BGV",> 饭前看电影
 http://aldirect.hls.huya.com/huyalive/94525224-2708800086-11634207780771987456-2373228722-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1090/89/0ac92d5b0db742d54196febba1e810_180_135.jpg" group-title="BGV",> 香菇带你看电影，喜剧电影爱好者聚集地！
-http://huya-screenshots-review-1253498701.image.myqcloud.com/huyalive/94525224-2701809014-11604181355168006144-158309560-10057-A-0-1.m3u8
+http://aldirect.hls.huya.com/huyalive/94525224-2701809014-11604181355168006144-158309560-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1048/a0/6343ce60e55d598a4ad3bed6fa43fd_180_135.jpg" group-title="BGV",> 香飘飘独家冠名·爱就一起看
 http://aldirect.hls.huya.com/huyalive/28466698-2689655956-11551984368511614976-2847699190-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://huyaimg.msstatic.com/avatar/1013/4c/e3be5555615a81c1fa7e6218449943_180_135.jpg" group-title="BGV",> 鲁班爱看剧

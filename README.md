@@ -26,7 +26,7 @@ Or select one of the playlists from the list below.
 	</thead>
 	<tbody>
 		<tr><td align="left">Auto</td><td align="right">3</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/auto.m3u</code></td></tr>
-		<tr><td align="left">BGV</td><td align="right">396</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/bgv.m3u</code></td></tr>
+		<tr><td align="left">BGV</td><td align="right">388</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/bgv.m3u</code></td></tr>
 		<tr><td align="left">Business</td><td align="right">35</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/business.m3u</code></td></tr>
 		<tr><td align="left">Classic</td><td align="right">1</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/classic.m3u</code></td></tr>
 		<tr><td align="left">Comedy</td><td align="right">3</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/comedy.m3u</code></td></tr>
@@ -52,7 +52,7 @@ Or select one of the playlists from the list below.
 		<tr><td align="left">Travel</td><td align="right">6</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/travel.m3u</code></td></tr>
 		<tr><td align="left">Weather</td><td align="right">7</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/weather.m3u</code></td></tr>
 		<tr><td align="left">XXX</td><td align="right">69</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/xxx.m3u</code></td></tr>
-		<tr><td align="left">Other</td><td align="right">4813</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/other.m3u</code></td></tr>
+		<tr><td align="left">Other</td><td align="right">4728</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/other.m3u</code></td></tr>
 	</tbody>
 </table>
 
@@ -74,7 +74,7 @@ Or select one of the playlists from the list below.
 		<tr><td align="left">Bulgarian</td><td align="right">54</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/bg.m3u</code></td></tr>
 		<tr><td align="left">Burmese</td><td align="right">5</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/my.m3u</code></td></tr>
 		<tr><td align="left">Catalan</td><td align="right">4</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/ca.m3u</code></td></tr>
-		<tr><td align="left">Chinese</td><td align="right">2305</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/zh.m3u</code></td></tr>
+		<tr><td align="left">Chinese</td><td align="right">2212</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/zh.m3u</code></td></tr>
 		<tr><td align="left">Croatian</td><td align="right">37</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/hr.m3u</code></td></tr>
 		<tr><td align="left">Czech</td><td align="right">33</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/cs.m3u</code></td></tr>
 		<tr><td align="left">Danish</td><td align="right">16</td><td align="left"><code>https://iAladdin.github.io/iptv/languages/da.m3u</code></td></tr>
@@ -174,7 +174,7 @@ Or select one of the playlists from the list below.
 		<tr><td align="left">Canada</td><td align="right">39</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/ca.m3u</code></td><td align="left"><code>http://epg.streamstv.me/epg/guide-canada.xml.gz</code></td></tr>
 		<tr><td align="left">Cape Verde</td><td align="right">1</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/cv.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Chile</td><td align="right">62</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/cl.m3u</code></td><td align="left"></td></tr>
-		<tr><td align="left">China</td><td align="right">1826</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/cn.m3u</code></td><td align="left"><code>http://epg.51zmt.top:8000/e.xml.gz</code></td></tr>
+		<tr><td align="left">China</td><td align="right">1732</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/cn.m3u</code></td><td align="left"><code>http://epg.51zmt.top:8000/e.xml.gz</code></td></tr>
 		<tr><td align="left">Colombia</td><td align="right">31</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/co.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Costa Rica</td><td align="right">13</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/cr.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Croatia</td><td align="right">35</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/hr.m3u</code></td><td align="left"><code>http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml</code></td></tr>
@@ -205,7 +205,7 @@ Or select one of the playlists from the list below.
 		<tr><td align="left">Guyana</td><td align="right">2</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/gy.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Haiti</td><td align="right">16</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/ht.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Honduras</td><td align="right">27</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/hn.m3u</code></td><td align="left"></td></tr>
-		<tr><td align="left">Hong Kong</td><td align="right">40</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/hk.m3u</code></td><td align="left"></td></tr>
+		<tr><td align="left">Hong Kong</td><td align="right">39</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/hk.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Hungary</td><td align="right">26</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/hu.m3u</code></td><td align="left"><code>http://epg.streamstv.me/epg/guide-hungry.xml.gz</code></td></tr>
 		<tr><td align="left">Iceland</td><td align="right">6</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/is.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">India</td><td align="right">254</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/in.m3u</code></td><td align="left"><code>http://epg.streamstv.me/epg/guide-india.xml.gz</code></td></tr>
@@ -305,7 +305,7 @@ Or select one of the playlists from the list below.
 		<tr><td align="left">Western Sahara</td><td align="right">2</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/eh.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Yemen</td><td align="right">3</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/ye.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Zimbabwe</td><td align="right">2</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/zw.m3u</code></td><td align="left"></td></tr>
-		<tr><td align="left">Huya</td><td align="right">366</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/huya.m3u</code></td><td align="left"><code>http://epg.51zmt.top:8000/e.xml.gz</code></td></tr>
+		<tr><td align="left">Huya</td><td align="right">368</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/huya.m3u</code></td><td align="left"><code>http://epg.51zmt.top:8000/e.xml.gz</code></td></tr>
 	</tbody>
 </table>
 
