@@ -17,6 +17,9 @@ jobs:
       - name: Update Huya Playlist
         run: npm run huya
 
+      - name: Format Playlist
+        run: npm run format
+
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v1.6.0
         env:
