@@ -34,13 +34,18 @@ for (let indexOfTag = 0; indexOfTag < tagList.length; indexOfTag++) {
       url: tagList[indexOfTag] + index,
       timeout: 60000
     }).then(res => {
-      var m3u8String = processList(res.data.data.datas, tagNameList[indexOfTag]);
+      var m3u8String = processList(res.data.data.datas, tagNameList[indexOfTag], (index - 1) * 120);
       fs.appendFileSync(huyaPlayListPath, m3u8String);
     })
   }
 }
 
-var processList = (list, tagPrefix) => {
+function zeroPad(num, places) {
+  var zero = places - num.toString().length + 1;
+  return Array(+(zero > 0 && zero)).join("0") + num;
+}
+
+var processList = (list, tagPrefix, basePageNumber) => {
   var allM3U8 = "";
   list && list.forEach((item, index) => {
     var channel = {};
@@ -51,7 +56,7 @@ var processList = (list, tagPrefix) => {
     } else {
       channel.title = item.nick;
     }
-    channel.title = tagPrefix + ' |' + index + '| ' + channel.title
+    channel.title = tagPrefix + '|' + zeroPad(basePageNumber + index + 1, 3) + '|' + channel.title
     var urlCom = item.screenshot.replace("live-cover.msstatic.com", "aldirect.hls.huya.com");
     urlCom = urlCom.replace(/\/[0-9]*.jpg$/gm, ".m3u8");
     channel.url = urlCom;
