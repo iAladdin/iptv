@@ -4,7 +4,7 @@
 	</thead>
 	<tbody>
 		<tr><td align="left">Auto</td><td align="right">3</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/auto.m3u</code></td></tr>
-		<tr><td align="left">BGV</td><td align="right">317</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/bgv.m3u</code></td></tr>
+		<tr><td align="left">BGV</td><td align="right">313</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/bgv.m3u</code></td></tr>
 		<tr><td align="left">Business</td><td align="right">35</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/business.m3u</code></td></tr>
 		<tr><td align="left">Classic</td><td align="right">1</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/classic.m3u</code></td></tr>
 		<tr><td align="left">Comedy</td><td align="right">3</td><td align="left"><code>https://iAladdin.github.io/iptv/categories/comedy.m3u</code></td></tr>
