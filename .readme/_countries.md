@@ -161,6 +161,6 @@
 		<tr><td align="left">Western Sahara</td><td align="right">2</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/eh.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Yemen</td><td align="right">3</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/ye.m3u</code></td><td align="left"></td></tr>
 		<tr><td align="left">Zimbabwe</td><td align="right">2</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/zw.m3u</code></td><td align="left"></td></tr>
-		<tr><td align="left">Huya</td><td align="right">299</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/huya.m3u</code></td><td align="left"><code>http://epg.51zmt.top:8000/e.xml.gz</code></td></tr>
+		<tr><td align="left">Huya</td><td align="right">296</td><td align="left" nowrap><code>https://iAladdin.github.io/iptv/countries/huya.m3u</code></td><td align="left"><code>http://epg.51zmt.top:8000/e.xml.gz</code></td></tr>
 	</tbody>
 </table>
